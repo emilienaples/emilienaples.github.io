@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto:belcekaya@gmail.com
+  icon: fas fa-envelope
+- title: LinkedIn
+  url: https://www.linkedin.com/in/belcekaya/
+  icon: fab fa-linkedin
+- title: GitHub
+  url: https://github.com/belcekaya/
+  icon: fab fa-github
