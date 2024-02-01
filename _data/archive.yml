@@ -1,12 +1,6 @@
 - type: mldl
-  title: ML,DL,TS&NLP Models
+  title: ML,DL Models
   url: /mldl/
-- type: optimization
-  title: Optimization
-  url: /optimization/
-- type: visuals
-  title: Data Visualization
-  url: /visuals/
-- type: backend
-  title: Data Manipulations
-  url: /backend/
+- type: data analysis
+  title: Data & Statistical Analysis
+  url: /data-statistical-analysis/

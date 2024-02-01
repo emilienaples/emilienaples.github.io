@@ -1,9 +1,9 @@
 # Setup
-title: Belce Kaya
+title: Emilie Naples
 description: >
-  Data Scientist / Data Engineer/ Industrial Engineer
+  Data Scientist
   
-url: https://belcekaya.github.io
+url: https://emilienaples.github.io
 avatar: /images/Picture1.jpg 
 paginate: 5
 permalink: pretty
@@ -27,14 +27,14 @@ exclude:
   - scripts/
 
 linkedin:
-  username: belcekaya
+  username: emilienaples
   card: summary
 logo: logo.png
 social:
-  name: Belce Kaya
+  name: Emilie Naples
   links:
-    - https://www.linkedin.com/in/belcekaya/
-    - https://github.com/belcekaya
+    - https://www.linkedin.com/in/emilienaples/
+    - https://github.com/emilienaples
 google_site_verification: xxxxx
 lang: en
 

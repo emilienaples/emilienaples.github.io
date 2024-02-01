@@ -1,80 +1,59 @@
 ---
 layout: archive-dates
 permalink: /mldl/
-title: Portfolio of Machine Learning(ML), Deep Learning(DL), Time Series(TS) and NLP Projects
+title: Machine Learning(ML), Deep Learning(DL) Projects 
+# Portfolio of Machine Learning(ML), Deep Learning(DL), Time Series(TS) and NLP Projects
 ---
 
-In the following links, you can check out some interesting Machine learning, Deep Learning and Time series forecasting models I had worked with!
+In the following links, you can check out some interesting Machine learning and Deep Learning models I've worked with!
 
 ## ML & DL Models
 -------------
 
 ### Master of Science Thesis 
 
-This study concentrates on predicting regional traffic density through the analysis of sensor data from Madrid's URB and M30 roads at 15-minute intervals in 21 districts of Madrid city between January 2022 and June 2022. The pre-processed data was inputted into deep learning models as numerical time-distributed series and generated hourly traffic intensity map images. Using CNN and LSTM structures within an encoder-decoder model, the study aimed for sequence-to-sequence prediction, with 24-time step looking back and 4-time step forecasting range. The models outperformed the baseline, with spatial correlation enhancing accuracy, and a Bi-LSTM encoder-decoder model further optimized predictions.
+This study explains the design and implementation of a garbage detector as both
+a web app (UI) and system software for installation on edge devices like cameras. 
+The system is constructed using the YOLOv5, a pre-trained, state-of-the-art,
+single-stage neural network used for real-time object detection. 
+Data gathering, data processing, model training, and model testing phases of the
+garbage detection software were facilitated by an MLOps pipeline developed previously
+in a company setting where Emilie Naples participated as an intern during the development of the thesis. 
+The MLOps pipeline is a Jupyter notebook connected to MLflow for model version registration and a Google Cloud database where training images are stored. When is integrated with cameras, it will capture image
+metadata from video streams and transmit this data back to a centralized database for
+efficient and better-optimized trash pick-up.
 
-- [Deep Learning Models to Predict the Traffic Intensity in Madrid city](/Notebooks/MasterThesis.pdf)
-
-### Bachelor of Science Thesis 
-
-This thesis is about the asset amount prediction of the bank customer with the available data (Bank Data Warehouse, KKB, Neighborhood data). In that way, it is aimed to make the right campaign for the right customer. In order to establish this predictive model, the main goal is to use machine learning algorithms and to make the model in a software program that supports these algorithms.
-
-In this thesis, four machine learning algorithms that were examined in the literature review header used to predict the asset of bank’s customers according to many conditions created in Oracle SQL software. Model performance was measured with MAE and MAPE KPI forecast error types. After examination of MAE and MAPE values for test samples and also model performance graphs, the XGBoost algorithm was chosen as an optimal model for this case. Test MAE and MAPE values were found 98.642, 17% respectively.
-
-- [Asset Estimation of the Bank Customers via Machine Learning Approach](/Notebooks/bachelor_thesis.pdf)
-
-### LeNet-5 CNN Network Implementation
-
-The architecture of the LeNet-5 Network can be seen on the following visual:
-
-<img src="/images/lenet5.jpeg?raw=true"/>
-
-As seen on the visual, the LeNet-5 architecture consists of *two convolutional and average pooling layers*, followed by a *flattening convolutional layer*. After these layers, it has *two fully-connected layers* and finally a *softmax* classifier. In the following link, it can be seen the implementation in PyTorch.
-
-- [LeNet 5 CNN Network](/Notebooks/LeNet5_CNN.html)
+- [Real Time Garbage Detection with YOLOv5 for City Streets](/Notebooks/sample-projects/masterthesis.pdf)
 
 
-### Prediction of House Prices [(Kaggle)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+### YOLOv5 CNN Network Architecture & Implementation
 
-Many different methods (KNN Regressor, Decision Trees, Extra trees, Random forest, HistGradient Regressor and XGBoost) were implemented to predict the house prices. The best optimal model was chosen by doing cross validation with 3 folds. To improve the performance of each model, different techniques were implemented for hyper-parameter tuning such as Grid search, Random search, Bayes search, Optuna, Halving Grid Search and Halving Random Search.
+The architecture of the YOLOv5 pre-trained neural network can be seen below:
 
-- [Kaggle ML Prediction Competition](/Notebooks/Kaggle_Comp.html)
+<img src="/images/yoloarchitecture.png?raw=true"/>
 
-<img src="/images/ml1.PNG?raw=true"/>
+The YOLO neural network has a sequence of convolutional layers to extract features with max pooling for dimensionality reduction and batch normalization to speed up learning. Leaky ReLU activation functions introduce non-linearity, while fully connected layers near the end interpret the features to predict bounding boxes and class probabilities for object detection.
 
-### Gaussian Processes
-
-To see the implementation of Gaussian processes with GPy, click on the following link:
-
-- [Regression with Gaussian Processes](/Notebooks/GPs.md)
+YOLOv5 builds on the YOLO architecture and is a more modular network, allowing for easier customization and scalability. It incorporates Cross-Stage Partial networks (CSPNet) for better gradient flow and feature reuse, uses a mosaic data augmentation technique for training, and has an adaptive anchor box calculation. It is a great choice for real-time object detection because of its single-staged nature in that with only one pass through the network, it is able to both detect and classify the object(s) of interest.
 
 
-### Comparison of different kernel methods for multiclass classification
+### Image Classification with MLPs
 
-In this study, five different schema were implemented for face recognition classification. 
+In this short project, I implement an image classifier using MLPs and the MNIST dataset, which consists of greyscale handwritten digits. Each image is 28x28 pixels. The goal is to build a neural network that can take one of these images and predict the digit in the image.
 
-- [Kernel Methods](/Notebooks/kernels.html)
+- [Image Classification with MLPs](/Notebooks/sample-projects/Image_Classification_with_MLPs_Part_1.ipynb)
+
+<img src="/images/s.PNG?raw=true"/>
+
+### Regularizing MLPs
+
+In this second part of the previous MLPs side project, I use the [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist), to experiment with early stopping, dropout, and L2 weight regularization:
+
+- [Regularizing MLPs](/Notebooks/sample-projects/Regularizing_MLPs.ipynb)
 
 
-## Time Series Forecasting Statistical & ML Models
--------------
+### Experimenting with Spectral Clustering
 
-Here, I have placed some projects about time series forecasting with statistical and Machine learning models.
+This notebook and mini project experiments with spectral clustering and the results on different data. 
 
-### Prediction of hourly traffic intensity in Madrid city
-
-In this project, the traffic insensity level of the most crowded district of Madrid city was estimated in every hour by implementing both statistical and Machine Learning models. The data used in this project was obtained from the sensors placed in Madrid city.
-
-- [Hourly Traffic Intensity Forecasting in Madrid](Notebooks/hourly_traffic_pred.html)
-
-### Time Series Forecasting of the annual exports of Turkey
-
-In this study, the annual exports of Turkey has been analyzed and exports has been forecasted by statistical tools such as ETS.
-
-- [Annual exports of Turkey](Notebooks/turkey_annual_exports.html)
-
-## Natural Language Processing Topic Model Prediction
-
-In the following link, you can check out the project related with topic models prediction in python!
-
-- [Topic models Prediction](/Notebooks/Topic_models.html)
+- [Spectral Clustering](/Notebooks/sample-projects/Spectrual_Clustering_Experiments.ipynb)
