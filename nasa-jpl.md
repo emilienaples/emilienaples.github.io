@@ -5,8 +5,7 @@ title: Motion Planning Under Uncertainty for Planetary Navegation
 ---
 
 ## NASA Jet Propulsion Laboratory <br />
-### Robotics Research Deptartment <br/>
-### Autonomous Systems Division
+### Robotics Research Deptartment - Autonomous Systems Division
 
 <br/>
 <p>
@@ -19,30 +18,29 @@ An exact solution to a POMDP then yields the optimal action for the robot over a
 
 <img src="/images/diagram.png?raw=true"/>
 
-<p> 
-Problem: <br/>
-Before, the algorithm only accounted for motion uncertainties. Decisions must be made about which action to take at each step or time point. The decision-maker or agent typically does not have full visibility of the true state of the environment (hence "partially observable"). Instead, they must rely on a set of observations that provide partial information about the state.</p>
-<p>
-Goal: <br/>
-Improve the algorithm (math side) to account for sensing (sight) & the dimensionality problem, thus addressing the challenges of motion and sensing uncertainties. </p>
+### Problem: <br/>
+Before, the algorithm only accounted for motion uncertainties. Decisions must be made about which action to take at each step or time point. The decision-maker or agent typically does not have full visibility of the true state of the environment (hence "partially observable"). Instead, they must rely on a set of observations that provide partial information about the state.
+<br/>
 
-<p>
-Solution:
+### Goal: <br/>
+Improve the algorithm (math side) to account for sensing (sight) & the dimensionality problem, thus addressing the challenges of motion and sensing uncertainties.
+<br/>
+
+### Solution: <br/>
 Improve the FIRM algorithm (Feedback-based Information Roadmap) which updates the roadmap at each belief state. Doing so, the following improvements will be made: <br/>
 - No need for expensive re-planning <br/>
 - Still accounts for motion and sensing uncertainties <br/>
 - Re-plans every time the localization module updates the probability distribution on the robot’s state </p>
 
-<p>
-Significant Applications: <br/>
+
+### Significant Applications: <br/>
 Athena Rover <br/>
 All future and upcoming Mars missions </p>
 
 
 ## How were POMDPs applied to address path planning under extreme uncertainty?
-<br/>
 
-By modeling the decision-making process as a partially observable environment: <br/><br/>
+By modeling the decision-making process as a partially observable environment: <br/>
 <p>
 DEFINE THE STATES: Possible states of the environment, which include hidden information. <br/>
 DEFINE THE OBSERVATIONS: The noisy and incomplete data received from sensors. <br/>
