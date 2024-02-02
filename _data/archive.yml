@@ -6,6 +6,10 @@
   title: Data & Statistical Analysis
   url: /dataanalysis/
 
+- type: nasa-jpl
+  title: Motion Planning Under Uncertainty for Planetary Navegation
+  url: /nasa-jpl/
+
 - type: bigdataspark
   title: Big Data Applications
   url: /bigdataspark/
