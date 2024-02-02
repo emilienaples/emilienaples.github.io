@@ -43,13 +43,13 @@ In this short project, I implement an image classifier using MLPs and the MNIST 
 
 - [Image Classification with MLPs](/Notebooks/Image_Classification_with_MLPs_Part_1.ipynb)
 
-<img src="/images/s.PNG?raw=true"/>
+<img src="/images/s.png?raw=true"/>
 
 ### Regularizing MLPs
 
 In this second part of the previous MLPs side project, I use the [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist), to experiment with early stopping, dropout, and L2 weight regularization:
 
-- [Regularizing MLPs](/Notebooks/sample-projects/Regularizing_MLPs.ipynb)
+- [Regularizing MLPs](/Notebooks/Regularizing_MLPs.ipynb)
 
 
 ### Experimenting with Spectral Clustering
