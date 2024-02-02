@@ -30,22 +30,22 @@ Improve the algorithm (math side) to account for sensing (sight) & the dimension
 Improve the FIRM algorithm (Feedback-based Information Roadmap) which updates the roadmap at each belief state. Doing so, the following improvements will be made: <br/>
 - No need for expensive re-planning <br/>
 - Still accounts for motion and sensing uncertainties <br/>
-- Re-plans every time the localization module updates the probability distribution on the robot’s state </p>
+- Re-plans every time the localization module updates the probability distribution on the robot’s state
 
 
 ### Significant Applications: <br/>
 Athena Rover <br/>
-All future and upcoming Mars missions </p>
+All future and upcoming Mars missions
 
 
 ## How were POMDPs applied to address path planning under extreme uncertainty?
 
 By modeling the decision-making process as a partially observable environment: <br/>
 <p>
-DEFINE THE STATES: Possible states of the environment, which include hidden information. <br/>
-DEFINE THE OBSERVATIONS: The noisy and incomplete data received from sensors. <br/>
-DEFINE THE ACTIONS: Possible movements and decisions the rover can take. <br/>
-DEFINE THE REWARDS: The system's objectives, such as reaching a destination while avoiding obstacles. <br/>
+ - DEFINE THE STATES: Possible states of the environment, which include hidden information. <br/>
+ - DEFINE THE OBSERVATIONS: The noisy and incomplete data received from sensors. <br/>
+ - DEFINE THE ACTIONS: Possible movements and decisions the rover can take. <br/>
+ - DEFINE THE REWARDS: The system's objectives, such as reaching a destination while avoiding obstacles. <br/>
 </p>
 
 <img src="/images/POMDP.png?raw=true"/>
@@ -65,6 +65,8 @@ R(s, a): Reward function (assigns a numerical reward to each action taken in a p
 
 Additionally, a policy (action selection strategy) also defines the action to take in each state. The policy maps each 
 belief state s to an action → a. <br/><br/>
+
+<img src="/images/statespace.png?raw=true"/>
 
 <p>
 The progression of states (S0, S1, S2, etc.), observations (O0, O1, O2, etc.), actions (A0, A1, A2, etc.), and rewards (R0, R1, R2, etc.) over time. This kind of diagram is typically used to visualize the dynamics of a POMDP, where at each time step, an action is taken based on the current belief state, a new observation is made, and the belief state is updated. 
