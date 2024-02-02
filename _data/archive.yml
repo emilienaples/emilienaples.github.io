@@ -1,6 +1,15 @@
 - type: mldl
   title: ML,DL Models
   url: /mldl/
-- type: data analysis
+
+- type: dataanalysis
   title: Data & Statistical Analysis
   url: /data-statistical-analysis/
+
+- type: bigdataspark
+  title: Spark & Big Data Applications
+  url: /big-data-spark/
+
+- type: visualization
+  title: Data Visualization
+  url: /visualization/
