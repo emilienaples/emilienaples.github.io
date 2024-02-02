@@ -5,9 +5,11 @@ title: Motion Planning Under Uncertainty for Planetary Navegation
 ---
 
 ## NASA Jet Propulsion Laboratory <br />
-# Robotics Research Deptartment - Autonomous Systems Division
+### Robotics Research Deptartment <br/>
+### Autonomous Systems Division
 
-<p> Summary: <br/>
+<br/>
+<p>
 The goal of this project was to enhance the Feedback Information Roadmap (FIRM) algorithm to account for both motion and sensing uncertainties to enhance motion planning capabilities for autonomous systems under extremely uncertain terrain and conditions. To approach this problem, I used POMDPs (Partially Observable Markov Decision Processes) as a way to maintain a sensor model, which represented the probability distribution of different observations in a robot’s environment.
 These observations are mapped to actions through a belief state which captures the robot’s knowledge about its surroundings.
 An exact solution to a POMDP then yields the optimal action for the robot over all states. </p>
@@ -21,23 +23,24 @@ An exact solution to a POMDP then yields the optimal action for the robot over a
 Problem: <br/>
 Before, the algorithm only accounted for motion uncertainties. Decisions must be made about which action to take at each step or time point. The decision-maker or agent typically does not have full visibility of the true state of the environment (hence "partially observable"). Instead, they must rely on a set of observations that provide partial information about the state.</p>
 <p>
-MY JOB:
+Goal: <br/>
 Improve the algorithm (math side) to account for sensing (sight) & the dimensionality problem, thus addressing the challenges of motion and sensing uncertainties. </p>
 
 <p>
 Solution:
 Improve the FIRM algorithm (Feedback-based Information Roadmap) which updates the roadmap at each belief state. Doing so, the following improvements will be made: <br/>
---No need for expensive re-planning <br/>
---Still accounts for motion and sensing uncertainties <br/>
---Re-plans every time the localization module updates the probability distribution on the robot’s state </p>
+- No need for expensive re-planning <br/>
+- Still accounts for motion and sensing uncertainties <br/>
+- Re-plans every time the localization module updates the probability distribution on the robot’s state </p>
 
 <p>
-Significant Applications:
-Athena rover
+Significant Applications: <br/>
+Athena Rover <br/>
 All future and upcoming Mars missions </p>
 
 
 ## How were POMDPs applied to address path planning under extreme uncertainty?
+<br/>
 
 By modeling the decision-making process as a partially observable environment: <br/><br/>
 <p>
@@ -68,5 +71,5 @@ belief state s to an action → a. <br/><br/>
 <p>
 The progression of states (S0, S1, S2, etc.), observations (O0, O1, O2, etc.), actions (A0, A1, A2, etc.), and rewards (R0, R1, R2, etc.) over time. This kind of diagram is typically used to visualize the dynamics of a POMDP, where at each time step, an action is taken based on the current belief state, a new observation is made, and the belief state is updated. 
 <p>
-We are then able to make decisions with incomplete knowledge about the current state and where the outcomes of actions are uncertainty </p>
+We are then able to make decisions with incomplete knowledge about the current state and where the outcomes of actions are uncertain. </p>
 

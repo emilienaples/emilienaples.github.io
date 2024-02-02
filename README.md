@@ -1,4 +1,4 @@
-# Sample Projects
+# My Portfolio
 
 This repository includes a list of recent sample projects both in PDF form and Jupyter notebook form for readability and clarity.
 The topics of the projects range from many Machine Learning topics such as Spectral Clustering, the construction of MLPs (Multilayer Perceptrons /Neural Networks), a master thesis in Computer Vision, and more.
