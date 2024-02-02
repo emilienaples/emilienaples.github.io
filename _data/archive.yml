@@ -4,11 +4,11 @@
 
 - type: dataanalysis
   title: Data & Statistical Analysis
-  url: /data-statistical-analysis/
+  url: /dataanalysis/
 
 - type: bigdataspark
-  title: Spark & Big Data Applications
-  url: /big-data-spark/
+  title: Big Data Applications
+  url: /bigdataspark/
 
 - type: visualization
   title: Data Visualization

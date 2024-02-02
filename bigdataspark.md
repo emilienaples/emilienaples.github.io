@@ -1,6 +1,6 @@
 ---
-layout: archive-dates
-permalink: /bigdataspark/ #/backend/
+layout: page
+permalink: /bigdataspark/
 title: Big Data Applications
 ---
 
