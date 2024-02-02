@@ -9,4 +9,4 @@ title: Data & Statistical Analysis
 
 For this study done with a colleague in my master's degree, we chose the [Country Statistics - UNData](https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles) dataset on the different countries of the world with several indicators that cover four main fields: general information, economy, sociology and environment/infrastructure indicators. An in-depth data analysis is performed.
  
-[UN Data Country Profiles](Notebooks/sample-projects/undata.pdf)
+[UN Data Country Profiles](Notebooks/undata.pdf)

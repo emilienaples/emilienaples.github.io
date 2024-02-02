@@ -23,7 +23,7 @@ The MLOps pipeline is a Jupyter notebook connected to MLflow for model version r
 metadata from video streams and transmit this data back to a centralized database for
 efficient and better-optimized trash pick-up.
 
-- [Real Time Garbage Detection with YOLOv5 for City Streets](/Notebooks/sample-projects/masterthesis.pdf)
+- [Real Time Garbage Detection with YOLOv5 for City Streets](/Notebooks/masterthesis.pdf)
 
 
 ### YOLOv5 CNN Network Architecture & Implementation
@@ -41,7 +41,7 @@ YOLOv5 builds on the YOLO architecture and is a more modular network, allowing f
 
 In this short project, I implement an image classifier using MLPs and the MNIST dataset, which consists of greyscale handwritten digits. Each image is 28x28 pixels. The goal is to build a neural network that can take one of these images and predict the digit in the image.
 
-- [Image Classification with MLPs](/Notebooks/sample-projects/Image_Classification_with_MLPs_Part_1.ipynb)
+- [Image Classification with MLPs](/Notebooks/Image_Classification_with_MLPs_Part_1.ipynb)
 
 <img src="/images/s.PNG?raw=true"/>
 
@@ -56,4 +56,4 @@ In this second part of the previous MLPs side project, I use the [Fashion-MNIST 
 
 This notebook and mini project experiments with spectral clustering and the results on different data. 
 
-- [Spectral Clustering](/Notebooks/sample-projects/Spectrual_Clustering_Experiments.ipynb)
+- [Spectral Clustering](/Notebooks/Spectrual_Clustering_Experiments.ipynb)
