@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive-dates
 permalink: /dataanalysis/
 title: Data & Statistical Analysis
 ---

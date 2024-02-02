@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive-dates
 permalink: /bigdataspark/
 title: Big Data Applications
 ---

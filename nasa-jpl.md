@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive-dates
 permalink: /nasa-jpl/
 title: Motion Planning Under Uncertainty for Planetary Navegation
 ---
