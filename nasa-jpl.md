@@ -7,7 +7,8 @@ title: Motion Planning Under Uncertainty for Planetary Navegation
 ## NASA Jet Propulsion Laboratory <br />
 ### Robotics Research Deptartment - Autonomous Systems Division
 
-<br/>
+-------------
+
 <p>
 The goal of this project was to enhance the Feedback Information Roadmap (FIRM) algorithm to account for both motion and sensing uncertainties to enhance motion planning capabilities for autonomous systems under extremely uncertain terrain and conditions. To approach this problem, I used POMDPs (Partially Observable Markov Decision Processes) as a way to maintain a sensor model, which represented the probability distribution of different observations in a robot’s environment.
 These observations are mapped to actions through a belief state which captures the robot’s knowledge about its surroundings.

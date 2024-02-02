@@ -6,7 +6,6 @@ title: Machine Learning(ML), Deep Learning(DL) Projects
 
 In the following links, you can check out some interesting Machine learning and Deep Learning models I've worked with!
 
-## ML & DL Models
 -------------
 
 ### Master of Science Thesis 
