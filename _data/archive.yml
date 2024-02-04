@@ -3,7 +3,7 @@
   url: /mldl/
 
 - type: dataanalysis
-  title: Data & Statistical Analysis
+  title: Data Analysis
   url: /dataanalysis/
 
 - type: nasa-jpl
@@ -15,5 +15,5 @@
   url: /bigdataspark/
 
 - type: visualization
-  title: Data Visualization
+  title: Data Modeling & Visualization
   url: /visualization/
