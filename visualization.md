@@ -41,11 +41,10 @@ This dashboard visualizes some of the components behind Coca-Cola Sales and feat
 
 ## Data Models in PowerBI
 
-I developed the beow data model by first compiling and organizing the raw data in an Excel workbook and loading it into PowerBI where I used the data editor to manipulate and refine the data, creating new columns, relationships, and performing various transformations for cleaning. The goal was to establish the appropriate relationships between the tables.
+I developed the below data model by first compiling and organizing the raw data in an Excel workbook and loading it into PowerBI where I used the data editor to manipulate and refine the data, creating new columns, relationships, and performing various transformations for cleaning. The goal was to establish the appropriate relationships between the tables.
 
 I used Data Analysis Expressions (DAX) to do complex aggregations, create new metrics, and build the data model to be used for analytical reporting and dashboarding.
 
 <img src="/images/sales-prod-geo-model.png?raw=true"/>
-
 
 Each table is connected with lines representing relationships, which are defined by one-to-one (1:1), one-to-many (1:), or many-to-one (:1) cardinality. The relationships make complex queries across multiple tables easier which then allows multidimensional analysis of sales performance, customer behavior, and budget forecasting.
