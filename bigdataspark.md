@@ -10,7 +10,7 @@ title: Big Data Applications
 
 This project uses Spark in Databricks to forecast the energy production of wind turbines located at Sotavento, Spain. The study uses ML models to predict the electricity generation six hours ahead, based on wind forecast data.
 
-- [PySpark Applications in Databricks](/Notebooks/energy-prediction-pyspark.ipynb)
+- [PySpark Applications in Databricks](/Notebooks/energy-prediction-pyspark.html)
 
 Since weather patterns are complex and vary greatly, I explore the following 3 questions that could significantly influence the performance of the predictive models:
 
