@@ -42,12 +42,11 @@ All future and upcoming Mars missions
 ## How were POMDPs applied to address path planning under extreme uncertainty?
 
 By modeling the decision-making process as a partially observable environment: <br/>
-<p>
+
 - DEFINE THE STATES: Possible states of the environment, which include hidden information. <br/>
 - DEFINE THE OBSERVATIONS: The noisy and incomplete data received from sensors. <br/>
 - DEFINE THE ACTIONS: Possible movements and decisions the rover can take. <br/>
 - DEFINE THE REWARDS: The system's objectives, such as reaching a destination while avoiding obstacles. <br/>
-</p>
 
 <img src="/images/POMDP.png?raw=true"/>
 
