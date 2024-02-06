@@ -1,7 +1,7 @@
 ---
 layout: archive-dates
 permalink: /nasa-jpl/
-title: Motion Planning Under Uncertainty for Planetary Navegation
+title: Motion Planning Under Uncertainty for Planetary Navigation
 ---
 
 ## NASA Jet Propulsion Laboratory <br />
@@ -14,7 +14,7 @@ The goal of this project was to enhance the Feedback Information Roadmap (FIRM) 
 These observations are mapped to actions through a belief state which captures the robot’s knowledge about its surroundings.
 An exact solution to a POMDP then yields the optimal action for the robot over all states. </p>
 
-- [Motion Planning Under Uncertainty for Planetary Navegation](/Notebooks/zUCR_PDF_version.pdf)
+- [Motion Planning Under Uncertainty for Planetary Navigation](/Notebooks/zUCR_PDF_version.pdf)
 
 
 <img src="/images/diagram.png?raw=true"/>
