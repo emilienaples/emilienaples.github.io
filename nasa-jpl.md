@@ -52,15 +52,13 @@ By modeling the decision-making process as a partially observable environment: <
 
 The POMDP is modeled as follows: <br/>
 
-- A 6-tuple (S, A, O, T, Z, R): <br/>
-- S: State space (set of all possible states the system can be in) <br/>
-- A: Action space ( set of all actions that the decision maker can take) <br/>
+- A 6-tuple (S, A, O, T, Z, R):
+- S: State space (set of all possible states the system can be in)
+- A: Action space ( set of all actions that the decision maker can take)
 - O: Observation space (set of all possible observations that the decision maker can make about the actual state of the system)
-- T: Transition function (deffines the probability of transitioning from one state to another state given a particular action) - T(s, a, s’) = P(St+1 = s’ | St = s, At = a) <br/>
-- Z: Observation function (gives the probability of making an observation given a state of the system and an action that has been taken.) <br/>
-<br/>
-- Z(s, a, o) = P(Ot+1 = o | St+1 = s, At = a) <br/>
-<br/>
+- T: Transition function (deffines the probability of transitioning from one state to another state given a particular action) - T(s, a, s’) = P(St+1 = s’ | St = s, At = a)
+- Z: Observation function (gives the probability of making an observation given a state of the system and an action that has been taken.)
+- Z(s, a, o) = P(Ot+1 = o | St+1 = s, At = a)
 - R(s, a): Reward function (assigns a numerical reward to each action taken in a particular state) <br/>
 
 Additionally, a policy (action selection strategy) also defines the action to take in each state. The policy maps each 
