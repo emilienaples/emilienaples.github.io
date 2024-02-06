@@ -35,8 +35,8 @@ Improve the FIRM algorithm (Feedback-based Information Roadmap) which updates th
 
 
 ### Significant Applications: <br/>
-Athena Rover <br/>
-All future and upcoming Mars missions
+- [Athena Rover](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/athena-rover-development/) <br/>
+- [Mars-Copter Mission 2020 ](https://arxiv.org/abs/2008.07157)
 
 
 ## How were POMDPs applied to address path planning under extreme uncertainty?
