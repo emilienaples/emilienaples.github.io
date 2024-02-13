@@ -38,6 +38,8 @@ YOLOv5 builds on the YOLO architecture and is a more modular network, allowing f
 
 This project explores Variational Autoencoders (VAEs) through the lens of the CelebA dataset, focusing on image generation. Using a subset of 11,000 celebrity images, it demonstrates how VAEs can learn and generate new facial images. The emphasis here is on deep learning techniques for image generation and the potential of VAEs in synthetic data creation and beyond.
 
+<img src="/images/vae_image.png?raw=true"/>
+
 - **Concepts:** VAEs, probabilistic models, inference, and training loss (ELBO).
 - **Uses:** PyTorch and torchvision for model building and training for the celebrity face generation.
 - **Outcome:** Successfully trained a VAE model, illustrating its effectiveness in generating realistic and varied images.
