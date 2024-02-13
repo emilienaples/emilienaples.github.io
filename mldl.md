@@ -34,6 +34,19 @@ The YOLO neural network has a sequence of convolutional layers to extract featur
 
 YOLOv5 builds on the YOLO architecture and is a more modular network, allowing for easier customization and scalability. It incorporates Cross-Stage Partial networks (CSPNet) for better gradient flow and feature reuse, uses a mosaic data augmentation technique for training, and has an adaptive anchor box calculation. It is a great choice for real-time object detection because of its single-staged nature in that with only one pass through the network, it is able to both detect and classify the object(s) of interest.
 
+### Variational Autoencoders
+
+To concisely present the "Variational Autoencoders" project in your portfolio, consider the following streamlined summary:
+
+### Project Title: Understanding Variational Autoencoders
+
+This project explores Variational Autoencoders (VAEs) through the lens of the CelebA dataset, focusing on image generation. Using a subset of 11,000 celebrity images, it demonstrates how VAEs can learn and generate new facial images. The emphasis here is on deep learning techniques for image generation and the potential of VAEs in synthetic data creation and beyond.
+
+- **Concepts:** VAEs, probabilistic models, inference, and training loss (ELBO).
+- **Uses:** PyTorch and torchvision for model building and training for the celebrity face generation.
+- **Outcome:** Successfully trained a VAE model, illustrating its effectiveness in generating realistic and varied images.
+
+- [Variational Autoencoders](/Notebooks/Variational_Autoencoders.html)
 
 ### Image Classification with MLPs
 
