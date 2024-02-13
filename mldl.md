@@ -36,10 +36,6 @@ YOLOv5 builds on the YOLO architecture and is a more modular network, allowing f
 
 ### Variational Autoencoders
 
-To concisely present the "Variational Autoencoders" project in your portfolio, consider the following streamlined summary:
-
-### Project Title: Understanding Variational Autoencoders
-
 This project explores Variational Autoencoders (VAEs) through the lens of the CelebA dataset, focusing on image generation. Using a subset of 11,000 celebrity images, it demonstrates how VAEs can learn and generate new facial images. The emphasis here is on deep learning techniques for image generation and the potential of VAEs in synthetic data creation and beyond.
 
 - **Concepts:** VAEs, probabilistic models, inference, and training loss (ELBO).
