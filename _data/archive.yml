@@ -1,10 +1,10 @@
 - type: mldl
   title: ML,DL Models
   url: /mldl/
-  
-- type: dataanalysis
-  title: Data Analysis
-  url: /dataanalysis/
+
+- type: visualization
+  title: Data Modeling & Visualization
+  url: /visualization/
 
 - type: nasa-jpl
   title: Robotics NASA JPL
@@ -13,7 +13,7 @@
 - type: bigdataspark
   title: Big Data Applications
   url: /bigdataspark/
-
-- type: visualization
-  title: Data Modeling & Visualization
-  url: /visualization/
+  
+- type: dataanalysis
+  title: Data Analysis
+  url: /dataanalysis/
