@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Data Scientist and Mathematician graduated with honors with a Bachelor of Science degree in Mathematics and a Master of Science degree in Big Data Analytics. 
+Data Analyst with a Master of Science in Big Data Analytics and a Bachelor of Science in Mathematics.
 
 <img src="/images/educ.png?raw=true"/>
 
