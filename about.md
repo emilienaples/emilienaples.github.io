@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Data Analyst with a Master of Science in Big Data Analytics and a Bachelor of Science in Mathematics.
+Data Analyst with 2 years of data experience, a Master of Science in Big Data Analytics, and a Bachelor of Science in Mathematics.
 
 <img src="/images/educ.png?raw=true"/>
 
@@ -20,7 +20,7 @@ Current Data Analyst & Specifications Architect for a Cognitive Robotics Busines
 - Data Science (Statistical Analytics, Predictive Modeling)
 - Startup Experience (FinTech)
 
-Equipped with 2.5 years of hands-on data and mathematical experience that started with an internship at NASA JPL (Jet Propulsion Laboratory) in Robotics Research for Path Planning Under Uncertainty for Planetary Navigation.
+Equipped with 2 years of hands-on data and mathematical experience that started with an internship at NASA JPL (Jet Propulsion Laboratory) in Robotics Research for Path Planning Under Uncertainty for Planetary Navigation.
 
 US and Italian Citizen fluent in English, Spanish and proficient in Italian.
 
