@@ -8,7 +8,19 @@ Data Scientist and Mathematician graduated with honors with a Bachelor of Scienc
 <img src="/images/educ.png?raw=true"/>
 
 
-Data Scientist currently employed at a FinTech startup. Equipped with 2.5 years of hands on experience that started with an internship at NASA JPL (Jet Propulsion Laboratory) in Robotics Research for Path Planning Under Uncertainty for Planetary Navigation.
+Current Data Analyst & Specifications Architect for a Cognitive Robotics Business System Automation Company in the Installed Sales Revenue Division with diverse experience in:
 
-Experience encompasses a broad range of data science projects in Machine Learning, Artificial Intelligence, Predictive Modeling, Statistical Analysis, Data Visualization, PowerBI Dashboard production, Data Modeling, and a FinTech Startup with one business partner in finance since July 2023. US and Italian Citizen fluent in English and European Spanish.
+- Analytics Widget Development
+- Complex SQL for Data Analytics
+- KPI Dashboard development
+- Business Intelligence & PowerBI Dashboard Development
+- Product Specifications Development
+- Data Integration
+- Digital Robotics
+- Data Science (Statistical Analytics, Predictive Modeling)
+- Startup Experience (FinTech)
+
+Equipped with 2.5 years of hands-on data and mathematical experience that started with an internship at NASA JPL (Jet Propulsion Laboratory) in Robotics Research for Path Planning Under Uncertainty for Planetary Navigation.
+
+US and Italian Citizen fluent in English, Spanish and proficient in Italian.
 
