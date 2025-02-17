@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Data Analyst with 2 years of data experience, a Master of Science in Big Data Analytics, and a Bachelor of Science in Mathematics.
+Data Analyst with a Master of Science in Big Data Analytics and a Bachelor of Science in Mathematics.
 
 <img src="/images/educ.png?raw=true"/>
 
