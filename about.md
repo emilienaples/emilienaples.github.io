@@ -5,7 +5,7 @@ title: About
 
 Data Analyst with a Master of Science in Big Data Analytics and a Bachelor of Science in Mathematics.
 
-<img src="/images/educ.png?raw=true"/>
+<img src="/images/educc.png?raw=true"/>
 
 
 Current Data Analyst & Specifications Architect for a Cognitive Robotics Business System Automation Company in the Installed Sales Revenue Division with diverse experience in:
