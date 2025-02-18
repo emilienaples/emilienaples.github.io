@@ -22,5 +22,5 @@ Current Data Analyst & Specifications Architect for a Cognitive Robotics Busines
 
 Equipped with 2 years of hands-on data and mathematical experience that started with an internship at NASA JPL (Jet Propulsion Laboratory) in Robotics Research for Path Planning Under Uncertainty for Planetary Navigation.
 
-US and Italian Citizen fluent in English, Spanish and proficient in Italian.
+U.S. and Italian Citizen fluent in English, Spanish and proficient in Italian.
 
