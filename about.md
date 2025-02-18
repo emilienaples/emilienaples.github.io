@@ -12,7 +12,7 @@ Current Data Analyst & Specifications Architect for a Cognitive Robotics Busines
 
 - Analytics Widget Development
 - Complex SQL for Data Analytics
-- KPI Dashboard development
+- KPI Dashboard Development
 - Business Intelligence & PowerBI Dashboard Development
 - Product Specifications Development
 - Data Integration
