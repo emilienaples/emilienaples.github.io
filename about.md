@@ -21,9 +21,8 @@ Current Technical Data Analyst & Specifications Architect for a Cognitive Roboti
 - Startup Experience (FinTech)
 
 I have also taken on brief roles in the past as a Data Scientist:
-- For my <a href="{{ '/mldl/' | relative_url }}"> startup company (Investor Angel) </a> 
-- For my <a href="https://github.com/emilienaples/">Master's Thesis in Computer Vision</a>
-
+- For my <a href="{{ '/mldl/' | relative_url }}"> Master's Thesis in Computer Vision </a> 
+- For my <a href="https://github.com/emilienaples/">startup company (Investor Angel)</a>
 
 Equipped with 2 years of hands-on data and mathematical experience that started with an internship at NASA JPL (Jet Propulsion Laboratory) in Robotics Research for Path Planning Under Uncertainty for Planetary Navigation.
 
