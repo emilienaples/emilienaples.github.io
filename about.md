@@ -17,7 +17,7 @@ Current Technical Data Analyst & Specifications Architect for a Cognitive Roboti
 - Product Specifications Development
 - Data Integration
 - Digital Robotics
-- Data Science (Statistical Analytics, Predictive Modeling)
+- Data Science (Statistical Analytics, Predictive Modeling, Computer Vision)
 - Startup Experience (FinTech)
 
 I have also taken on brief roles in the past as a Data Scientist:
