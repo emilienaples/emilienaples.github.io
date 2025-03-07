@@ -25,10 +25,8 @@ Current Technical Data Analyst, SQL Developer & Specifications Architect for a C
 
 My roles as a Data Scientist in the past included:
 - <a href="{{ '/mldl/' | relative_url }}"> Master's Thesis in Computer Vision </a> 
-- FinTech Startup Experience <a href="https://github.com/emilienaples/investor-angel">startup company (Investor Angel)</a>
-- Master's Degree - Statistical Modeling, predictive analytics, regression modeling 
+- <a href="https://github.com/emilienaples/investor-angel">FinTech Startup Experience</a>
+- Statistical Modeling, Predictive Analytics, Regression Modeling 
 
 Other roles I've taken on:
-- Digital Robotics Internship at NASA JPL in 2017 in Pasadena, California - Robotics Research for Path Planning Under Uncertainty for Planetary Navigation.
-- Startup Experience (FinTech)
-
+- <a href="https://emilienaples.github.io/nasa-jpl/"> Digital Robotics Internship at NASA JPL</a> (Pasadena, California) - Robotics Research for Path Planning Under Uncertainty for Planetary Navigation.
