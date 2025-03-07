@@ -16,7 +16,7 @@ Current Technical Data Analyst, SQL Developer & Specifications Architect for a C
 - KPI Dashboard Development and trend analysis
 - Analytics Report Automation
 - Report generation for real-time reporting to stakeholders
-- Financial metrics measurement and calculations for products (Core Earnings and ROI measurement)
+- Financial metrics measurement and calculations for products (Core Earnings & ROI measurement)
 - A/B and Multivariate testing concepts for online forms
 - Business Intelligence & PowerBI Dashboard Development
 - Product Specifications Development
