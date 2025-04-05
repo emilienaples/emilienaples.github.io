@@ -7,7 +7,7 @@ Emilie Naples is a technical professional with 2.5 years of experience across da
 <b> Profile: </b> Technical data profile with 2 years of experience in both Data Scientist and Data Analytics / SQL Developer roles. <br/>
 <b> Education: </b> M.S. Big Data Analytics, B.S. Mathematics (University of California, Riverside). <br/>
 <b> Nationalities: </b> USA, Italy <br/>
-<b> Languages: </b> English, Spanish, Italian
+<b> Languages: </b> English, Spanish, Italian ...
 
 <img src="/images/educc.png?raw=true"/>
 
