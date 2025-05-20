@@ -2,6 +2,8 @@
 layout: page
 title: About
 ---
+AI & Data Science, M.S. Big Data Analytics, SQL Data Analyst, ex-NASA JPL
+<br/> <br/>
 Emilie Naples is a technical professional with 2.5+ years of experience across data science, data analytics, and SQL development roles. Her background includes fintech startup development, statistical modeling, and a Master’s Thesis in AI (Computer Vision) in roles held across the United States of America and Europe. Emilie holds an M.S. in Big Data Analytics from the Universidad Carlos III de Madrid (Madrid, Spain) and a B.S. in Applied Mathematics from the University of California, Riverside (Riverside, California, United States). In her most recent role as a Data Analyst at a Digital Robotics Business System Automation company, she specializes in developing real-time KPI dashboards, financial analytics (including Core Earnings & ROI metrics), and automated reporting solutions. She has also contributed to planetary navigation research through a Digital Robotics Internship at NASA's Jet Propulsion Laboratory in 2017 (Pasadena, CA, United States). Emilie speaks 3 languages: Italian at a conversational level and fluent English & Spanish. She combines global perspective with strong product intuition to help organizations transform data into strategic impact. <br/>
 
 <b> Profile: </b> Technical data profile with 2.5 years of experience in both Data Scientist and Data Analytics roles across Europe and the US. <br/>
