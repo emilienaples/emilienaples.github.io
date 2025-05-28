@@ -21,12 +21,14 @@ Project Abstract: Motion Planning Under Uncertainty for Planetary Navigation
 During unmanned missions to space, it is critical for a machine to have the ability to operate without human assistance. A robot must operate autonomously in order to gather information about the unknown planetary body it intends to explore. When motion planning, a robot must be able to go from a start state to a goal state while accounting for the uncertainties in motion and
 sensing. It must also be able to avoid any obstacles and calculate risk to determine the best path for doing so. We look for the most efficient way to accomplish this task and the path planning necessary to execute it. Simply put, we look at the problem of autonomous robotic planning and the implications caused by motion and sensing uncertainty. </p>
 
+- [Motion Planning Under Uncertainty - Quick View](/Notebooks/zUCR_PDF_version.pdf)
+
 <p>
 The goal of this project was to enhance the Feedback Information Roadmap (FIRM) algorithm to account for both motion and sensing uncertainties to enhance motion planning capabilities for autonomous systems under extremely uncertain terrain and conditions. To approach this problem, I used POMDPs (Partially Observable Markov Decision Processes) as a way to maintain a sensor model, which represented the probability distribution of different observations in a robot’s environment.
 These observations are mapped to actions through a belief state which captures the robot’s knowledge about its surroundings.
 An exact solution to a POMDP then yields the optimal action for the robot over all states. </p>
 
-- [Motion Planning Under Uncertainty for Planetary Navigation](/Notebooks/zUCR_PDF_version.pdf)
+- [Full Report - Motion Planning Under Uncertainty for Planetary Navigation](/Notebooks/NASAReportPDF.pdf)
 
 
 <img src="/images/diagram.png?raw=true"/>
