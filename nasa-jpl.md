@@ -17,7 +17,7 @@ JPL Robotics Research Intern, Summer 2017 <br/>
 Autonomous Systems Division: Robotic Systems Section 347 <br/>
 
 <p>
-Project Abstract: Motion Planning Under Uncertainty for Planetary Navigation
+### Project Abstract: <br/> 
 During unmanned missions to space, it is critical for a machine to have the ability to operate without human assistance. A robot must operate autonomously in order to gather information about the unknown planetary body it intends to explore. When motion planning, a robot must be able to go from a start state to a goal state while accounting for the uncertainties in motion and
 sensing. It must also be able to avoid any obstacles and calculate risk to determine the best path for doing so. We look for the most efficient way to accomplish this task and the path planning necessary to execute it. Simply put, we look at the problem of autonomous robotic planning and the implications caused by motion and sensing uncertainty. </p>
 
