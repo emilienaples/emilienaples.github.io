@@ -16,10 +16,9 @@ NASA MIRO FIELDS Program <br/>
 JPL Robotics Research Intern, Summer 2017 <br/>
 Autonomous Systems Division: Robotic Systems Section 347 <br/>
 
-<p>
-### Project Abstract: <br/> 
+### Project Abstract: <br/>
 During unmanned missions to space, it is critical for a machine to have the ability to operate without human assistance. A robot must operate autonomously in order to gather information about the unknown planetary body it intends to explore. When motion planning, a robot must be able to go from a start state to a goal state while accounting for the uncertainties in motion and
-sensing. It must also be able to avoid any obstacles and calculate risk to determine the best path for doing so. We look for the most efficient way to accomplish this task and the path planning necessary to execute it. Simply put, we look at the problem of autonomous robotic planning and the implications caused by motion and sensing uncertainty. </p>
+sensing. It must also be able to avoid any obstacles and calculate risk to determine the best path for doing so. We look for the most efficient way to accomplish this task and the path planning necessary to execute it. Simply put, we look at the problem of autonomous robotic planning and the implications caused by motion and sensing uncertainty. <br/>
 
 - [Motion Planning Under Uncertainty - Quick View](/Notebooks/zUCR_PDF_version.pdf)
 
@@ -28,7 +27,7 @@ The goal of this project was to enhance the Feedback Information Roadmap (FIRM) 
 These observations are mapped to actions through a belief state which captures the robot’s knowledge about its surroundings.
 An exact solution to a POMDP then yields the optimal action for the robot over all states. </p>
 
-- [Full Report - Motion Planning Under Uncertainty for Planetary Navigation](/Notebooks/NASAReportPDF.pdf)
+- [Motion Planning Under Uncertainty for Planetary Navigation - Full Report](/Notebooks/NASAReportPDF.pdf)
 
 
 <img src="/images/diagram.png?raw=true"/>
