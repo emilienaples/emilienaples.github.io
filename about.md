@@ -30,5 +30,4 @@ Current Data Analyst, SQL Developer & Specifications Architect for a Cognitive R
 Highlights from previous roles:
 - <a href="{{ '/mldl/' | relative_url }}"> Master's Thesis in Computer Vision </a> 
 - <a href="https://github.com/emilienaples/investor-angel">FinTech Startup Experience</a>
-- Statistical Modeling, Predictive Analytics, Regression Modeling 
 - <a href="https://emilienaples.github.io/nasa-jpl/"> Digital Robotics Internship at NASA JPL</a> (Pasadena, California) - Robotics Research for Path Planning Under Uncertainty for Planetary Navigation.
