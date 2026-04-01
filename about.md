@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Business Analyst | Product & Data Analytics | SQL, KPI Strategy | AI/ML Data Processes | US & EMEA | ex-NASA JPL
+AI & Data Science, Business Analyst, Product & Data Analytics, SQL, KPI Strategy, AI/ML Data Processes, ex-NASA JPL
 
 <br/> <br/>
 Emilie Naples is a technical professional with 2 years of experience across data science, product analytics, and SQL development roles. Her background encompasses roles held across the Americas, Europe, and the Middle East. Emilie holds an M.S. in Big Data Analytics from the Universidad Carlos III de Madrid (Madrid, Spain) and a B.S. in Applied Mathematics from the University of California, Riverside (California, United States). In her most recent role as a Data Analyst at a Digital Robotics Business System Automation company, she specializes in developing real-time KPI dashboards, financial analytics, and automated reporting solutions. She has also contributed to planetary navigation research through a Digital Robotics Internship at NASA's Jet Propulsion Laboratory in 2017 (Pasadena, CA, United States). Emilie speaks 3 languages: Italian, English, and Spanish. She combines global perspective with strong product intuition to help organizations transform data into real impact. <br/><br/>
